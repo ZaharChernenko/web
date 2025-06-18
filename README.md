@@ -7,4 +7,4 @@ docker run -p 8000:8000 web
 ### Точка входа:
 localhost:8000/
 ### Пример работы:
-Uploading web.mp4…
+https://github.com/user-attachments/assets/ebe880f0-19e3-41e1-8e15-6abcdba1da35
